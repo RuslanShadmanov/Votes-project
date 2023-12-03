@@ -1,0 +1,42 @@
+img {
+  
+    height: 200px;
+    
+}
+
+.container{
+    display: flex;
+    margin: auto;
+    width: 90%;
+    padding-top: 20px;
+    justify-content: space-around;
+    
+}
+
+.team{
+   display:flex;
+   border: solid 1px lightgray;
+   justify-content: center;
+   flex-direction: column;
+   text-align: center;
+    padding:5px 0 5px 0;
+
+
+}
+
+button {
+    background-color: green;
+    color: white;
+    font-weight: bold;
+    border: none;
+    padding: 5px;
+    
+}
+p{
+   
+    background-color: lightgray;
+    padding: 5px;
+    font-weight: bold;
+   
+    
+}
